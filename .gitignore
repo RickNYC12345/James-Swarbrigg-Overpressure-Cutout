@@ -1,0 +1,9 @@
+# KiCAD backups and logs
+   *.bak
+   *-bak
+   *.kicad_prl
+   *.log
+   _autosave-*
+   
+   # Output directories (optional, remove if you want to commit your Gerbers)
+   /plots/
